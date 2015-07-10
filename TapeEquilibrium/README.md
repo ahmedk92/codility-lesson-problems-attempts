@@ -4,7 +4,7 @@ For each `P` obtain the sum of the integers by iterating over numbers in both ra
 
 # O(N) time, O(1) Space
 
-We can enhance the above solution by starting with initial values for both of the sums (pre and post `P`), then adjusting them over iterating the input array `A` just once.
+We can enhance the above solution by starting with initial values for both of the sums (pre and post `P`), then adjusting them while iterating the input array `A` just once.
 That is:
 
 ```
